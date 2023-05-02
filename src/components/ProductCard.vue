@@ -1,7 +1,3 @@
-<script setup>
-import { UseImage } from '@vueuse/components'
-</script>
-
 <template>
     <article 
         class="
