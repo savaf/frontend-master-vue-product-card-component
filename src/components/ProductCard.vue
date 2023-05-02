@@ -18,8 +18,8 @@
             alt="Image Product"
             loading="lazy"
         />
-        <div>
-            <header class="px-6 pt-6 mb-4">
+        <div class="px-6 pt-6 lg:pt-[32px] lg:px-[32px]">
+            <header class="mb-4">
                 <h5 class="
                     text-dark-grayish-blue
                     font-medium
@@ -38,12 +38,12 @@
                     leading-[32px]
                 ">Gabrielle Essence Eau De Parfum</h3>
             </header>
-            <section class="description px-6 font-medium leading-[23px] mb-6">
+            <section class="description font-medium leading-[23px] mb-6">
                 <p class="text-dark-grayish-blue text-base">
                     A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.
                 </p>
             </section>
-            <footer class="px-6">
+            <footer>
                 <div class="price mb-5">
                     <span class="
                         price-current
